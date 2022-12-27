@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    list-style-position: inside;
+}
+.phones{
+    list-style-type:none;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    list-style-position: inside;
+}
+.iphones{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+}
+.iphone11{
+    text-align: center;
+    object-fit: contain;
+}
+.label11{
+    font-size: 1.2em;
+}
+.iphone12{
+    text-align: center;
+    object-fit: contain;
+}
+.label12{
+    font-size: 1.2em;
+}
+.iphone13{
+    text-align: center;
+    object-fit: contain;
+  
+}
+.label13{
+    font-size: 1.2em;
+}
+.iphone14{
+    text-align: center;
+    object-fit: contain;
+  
+}
+.label14{
+    font-size: 1.2em;
+}
+.iphone14plus{
+    text-align: center;
+    object-fit: contain;
+  
+}
+.label14plus{
+    font-size: 1.2em;
+}
+.mi11tpro{
+    text-align: center;
+    object-fit: contain;
+}
+.label11t{
+    font-size: 1.2em;
+}
+.mi12t{
+    text-align: center;
+    object-fit: contain;
+}
+.labelmi12t{
+    font-size: 1.2em;
+}
+.laptopcategorys{
+    list-style-type:none;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10;
+    list-style-position: inside;
+    position: absolute;
+    left: 5%;
+    top: 20%
+}
+.macbooks{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+}
+.alllaptops{
+    top: 12%;
+    left: 8%;
+    position: absolute;
+    color: blueviolet;
+}
+.m2macbookpro13{
+    text-align: center;
+    object-fit: contain;
+}
+.labelmacbook13{
+    font-size: 1.2em;
+}
+.kulaklikbaslik{
+    color: cadetblue;
+    top: 12%;
+    right: 3%;
+    position: absolute;
+}
+.headphones2{
+    list-style-type:none;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10;
+    list-style-position: inside;
+    position: absolute;
+    right: 5%;
+    top: 20%
+}
+.airpods2{
+    text-align: center;
+    object-fit: contain;
+}
+.labelpods2{
+    font-size: 1.2em;
+}
+.airpods{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+}
